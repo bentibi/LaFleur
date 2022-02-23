@@ -1,0 +1,15 @@
+
+=	php:S2115")Add password protection to this database.(×¹
+=	php:S2115")Add password protection to this database.(×¹
+p	php:S1192 "VDefine a constant instead of duplicating this literal "select * from produit" 3 times.(ÁÛ«êüÿÿÿÿ
+t	php:S1488"`Immediately return this expression instead of assigning it to the temporary variable "$connect".(×¹
+@	php:S1481s"+Remove this unused "$fleur" local variable.(Ë»û²
+B	php:S1481Ö"'Remove this unused "$i" local variable.(àñÄøÿÿÿÿ
+A	php:S1481—"+Remove this unused "$ligne" local variable.(¶Ï¶ô
+E	php:S1172°"/Remove the unused function parameter "$tabErr".(Ô¾–›
+p	php:S1192 "VDefine a constant instead of duplicating this literal "select * from produit" 3 times.(ÁÛ«êüÿÿÿÿ
+t	php:S1488"`Immediately return this expression instead of assigning it to the temporary variable "$connect".(×¹
+@	php:S1481s"+Remove this unused "$fleur" local variable.(Ë»û²
+B	php:S1481Ö"'Remove this unused "$i" local variable.(àñÄøÿÿÿÿ
+A	php:S1481—"+Remove this unused "$ligne" local variable.(¶Ï¶ô
+E	php:S1172°"/Remove the unused function parameter "$tabErr".(Ô¾–›

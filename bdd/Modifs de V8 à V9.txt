@@ -1,0 +1,5 @@
+Modifs de V8 à V9
+
+Dans la table utilisateur
+
+le champ id est défni en clé primaire et en autoincrément
